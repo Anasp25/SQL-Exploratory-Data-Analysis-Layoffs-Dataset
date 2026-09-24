@@ -35,8 +35,9 @@ I used MySQL for the analysis, starting with the raw layoffs data and then worki
 
 ## Files
 
-* `layoffs.csv` — raw layoffs dataset
-* `layoffs_eda.sql` — SQL queries used for the analysis
+Eda.sql — SQL queries used for the analysis
+layoffs.csv — raw layoffs dataset
+README.md — project information
 
 ## What I Learned
 
