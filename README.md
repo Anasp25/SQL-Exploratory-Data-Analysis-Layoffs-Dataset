@@ -39,8 +39,17 @@ Eda.sql — SQL queries used for the analysis
 layoffs.csv — raw layoffs dataset
 README.md — project information
 
-## What I Learned
+This project helped me strengthen my SQL skills by working with a real-world dataset and applying SQL to an end-to-end exploratory analysis.
 
-This was my first EDA project using SQL. I practiced cleaning and exploring data, working with dates, grouping data, using aggregate functions, and using CTEs and window functions.
+Through this project, I practiced:
 
-The project helped me understand how SQL can be used to explore a dataset and find useful patterns from it.
+Data cleaning and preparation
+Aggregating and summarizing data
+Working with dates
+Analyzing trends over time
+Using CTEs to structure queries
+Using window functions for ranking
+Translating business questions into SQL queries
+
+** Tools Used
+MySQL
